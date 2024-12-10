@@ -1,0 +1,26 @@
+body {
+	background-image: url(background.avif);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover; /*cover the entire window and maintain aspect ratio*/
+	background-attachment: fixed; /*If have scrollbar, background wil be still static*/
+	margin: 0;
+}
+
+#clock-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+#clock {
+	font-family: monospace;
+	font-size: 6.5rem;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	backdrop-filter: blur(2px);
+	background-color: hsla(0, 0%, 100%, 0.1);
+	width: 100%;
+}
