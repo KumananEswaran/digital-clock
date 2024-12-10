@@ -2,7 +2,7 @@
  
 <a href="https://digital-clock-bro-code-yt.netlify.app/">
  
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1a4a6e00-9da5-45da-947f-a69c2790edf2/deploy-status)](https://app.netlify.com/sites/digital-clock-bro-code-yt/deploys)
+![image](https://github.com/user-attachments/assets/33cade35-1ecf-4ed2-9242-6e6800c983c0)
  
 ### DIGITAL CLOCK - FOLLOW ALONG TUTORIAL FROM BRO CODE ON YOU TUBE
 
